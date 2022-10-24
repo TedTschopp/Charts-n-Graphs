@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T16:55:27.477Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="BFEDFxS987hBW50p_QLt" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-24T21:21:01.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="4L2A7UNULhPQbrI44KYG" version="20.5.1" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="SES">
-    <mxGraphModel dx="2063" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
         <mxCell id="lHDh2VOqCjDSUPUFkfuu-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-19" source="lHDh2VOqCjDSUPUFkfuu-28" target="lHDh2VOqCjDSUPUFkfuu-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lHDh2VOqCjDSUPUFkfuu-49" value="Design Committee" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+        <mxCell id="lHDh2VOqCjDSUPUFkfuu-49" value="Design Council" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="610" width="1920" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lHDh2VOqCjDSUPUFkfuu-58" value="Is QDRT Required" style="rhombus;whiteSpace=wrap;html=1;" parent="lHDh2VOqCjDSUPUFkfuu-49" vertex="1">
@@ -171,13 +171,13 @@
         <mxCell id="lHDh2VOqCjDSUPUFkfuu-70" value="SDC Presentation" style="rounded=0;whiteSpace=wrap;html=1;" parent="lHDh2VOqCjDSUPUFkfuu-49" vertex="1">
           <mxGeometry x="1500" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrpsz6s_8IeYdR24ymDU-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="lHDh2VOqCjDSUPUFkfuu-49" source="lHDh2VOqCjDSUPUFkfuu-75" target="rrpsz6s_8IeYdR24ymDU-1">
+        <mxCell id="rrpsz6s_8IeYdR24ymDU-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" parent="lHDh2VOqCjDSUPUFkfuu-49" source="lHDh2VOqCjDSUPUFkfuu-75" target="rrpsz6s_8IeYdR24ymDU-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lHDh2VOqCjDSUPUFkfuu-75" value="SES Approval" style="rounded=0;whiteSpace=wrap;html=1;" parent="lHDh2VOqCjDSUPUFkfuu-49" vertex="1">
           <mxGeometry x="1690" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrpsz6s_8IeYdR24ymDU-1" value="Start Build" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="lHDh2VOqCjDSUPUFkfuu-49">
+        <mxCell id="rrpsz6s_8IeYdR24ymDU-1" value="Start Build" style="ellipse;whiteSpace=wrap;html=1;" parent="lHDh2VOqCjDSUPUFkfuu-49" vertex="1">
           <mxGeometry x="1850" y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lHDh2VOqCjDSUPUFkfuu-56" value="QDRT" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
@@ -251,19 +251,19 @@
         <mxCell id="lHDh2VOqCjDSUPUFkfuu-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;elbow=vertical;" parent="dNxyNK7c78bLwvsdeMH5-19" source="lHDh2VOqCjDSUPUFkfuu-73" target="lHDh2VOqCjDSUPUFkfuu-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rrpsz6s_8IeYdR24ymDU-3" value="Onboard New Team Members" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrpsz6s_8IeYdR24ymDU-3" value="Onboard New Team Members" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrpsz6s_8IeYdR24ymDU-4" value="Study the Materials" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrpsz6s_8IeYdR24ymDU-4" value="Study the Materials" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="10" width="306" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrpsz6s_8IeYdR24ymDU-5" value="Engineer the Solution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrpsz6s_8IeYdR24ymDU-5" value="Engineer the Solution" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="10" width="500" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrpsz6s_8IeYdR24ymDU-6" value="Approve the &amp;nbsp;Engineering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrpsz6s_8IeYdR24ymDU-6" value="Approve the &amp;nbsp;Engineering" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1340" y="10" width="500" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrpsz6s_8IeYdR24ymDU-7" value="Entry to Build" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrpsz6s_8IeYdR24ymDU-7" value="Entry to Build" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1880" y="10" width="170" height="60" as="geometry" />
         </mxCell>
       </root>

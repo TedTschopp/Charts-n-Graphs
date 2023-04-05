@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T16:08:14.011Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" version="21.1.4" etag="VzwaHOBa0e91lnosmKLQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T16:22:45.149Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="eYWAbvDGuiP0oqTMCWUL" version="21.1.4" type="github">
   <diagram name="Page-1" id="PGQRDa26BUzTsVGar7dD">
-    <mxGraphModel>
+    <mxGraphModel dx="1549" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-5" value="&#xa;Description" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="580" y="140" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-6" value="Fulfill Deployment" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="MuNR-OIB721QAQpEHRLJ-5">
+          <mxGeometry width="220.00000000000003" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-11" value="&#xa;Description" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="140" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-12" value="Observe Deployment" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="MuNR-OIB721QAQpEHRLJ-11">
+          <mxGeometry width="220.00000000000003" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-8" value="&#xa;Description" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;" vertex="1" parent="MuNR-OIB721QAQpEHRLJ-11">
+          <mxGeometry x="-100" y="-23.86" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-9" value="Validate Deployment" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="MuNR-OIB721QAQpEHRLJ-8">
+          <mxGeometry width="220.00000000000003" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: Verdana; letter-spacing: -0.01em;&quot;&gt;Ensuring that production deployment is not a surprise to any part of the organization, and that the resources needed for deployment are available&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="100" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-4" value="Plan &amp;amp; Approve Deployment" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="MuNR-OIB721QAQpEHRLJ-3">
+          <mxGeometry width="220.00000000000003" height="22.28571428571429" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.data_box;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-14" value="C/T=" style="text;fontSize=8;spacingLeft=2;verticalAlign=middle;html=1;whiteSpace=wrap;" vertex="1" parent="MuNR-OIB721QAQpEHRLJ-13">
+          <mxGeometry width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-15" value="C/O=" style="text;fontSize=8;spacingLeft=2;verticalAlign=middle;html=1;whiteSpace=wrap;" vertex="1" parent="MuNR-OIB721QAQpEHRLJ-13">
+          <mxGeometry y="20" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-16" value="Batch=" style="text;fontSize=8;spacingLeft=2;verticalAlign=middle;html=1;whiteSpace=wrap;" vertex="1" parent="MuNR-OIB721QAQpEHRLJ-13">
+          <mxGeometry y="40" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-17" value="Avail=" style="text;fontSize=8;spacingLeft=2;verticalAlign=middle;html=1;whiteSpace=wrap;" vertex="1" parent="MuNR-OIB721QAQpEHRLJ-13">
+          <mxGeometry y="60" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-18" value="" style="text;fontSize=8;spacingLeft=2;verticalAlign=middle;html=1;whiteSpace=wrap;" vertex="1" parent="MuNR-OIB721QAQpEHRLJ-13">
+          <mxGeometry y="80" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-19" value="&lt;span style=&quot;font-family: Verdana; letter-spacing: -0.01em;&quot;&gt;A Product Release in a fully-tested form&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="262.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-20" value="&lt;span style=&quot;font-family: Verdana; letter-spacing: -0.01em;&quot;&gt;Approved Deployment Plan&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="400" y="262.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-21" value="&lt;span style=&quot;font-family: Verdana; letter-spacing: -0.01em;&quot;&gt;Signed-off preconditions for deployment&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="570" y="257.5" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MuNR-OIB721QAQpEHRLJ-22" value="&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0.8); color: rgba(0, 0, 0, 0.8); font-family: Verdana; letter-spacing: -0.01em; text-align: left;&quot;&gt;Validated Knowledge Item for Product Release&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="550" y="430" width="160" height="77.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
